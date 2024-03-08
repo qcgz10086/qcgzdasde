@@ -1,13 +1,17 @@
 {
   "name": "qcgzdasd",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "qcgz10011",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "qcgz10086",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qcgz10086/qcgzdasde"
+  },
   "devDependencies": {
     "jest": "^26.6.3"
   }
